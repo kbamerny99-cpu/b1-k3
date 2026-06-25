@@ -1,0 +1,347 @@
+# Webbrowsers, Besturingssystemen en Kantoorsoftware
+
+## Webbrowsers
+
+Een webbrowser is een programma waarmee je websites kunt bezoeken en internetpagina's kunt bekijken.
+
+### Google Chrome
+
+#### Voordelen
+
+* Zeer snel.
+* Ondersteunt veel extensies.
+* Goede synchronisatie met Google-account.
+* Regelmatige beveiligingsupdates.
+
+#### Nadelen
+
+* Gebruikt relatief veel geheugen (RAM).
+* Verzamelt gebruikersgegevens voor Google-diensten.
+
+#### Aanbevolen voor
+
+Gebruikers die snelheid en gebruiksgemak belangrijk vinden.
+
+---
+
+### Mozilla Firefox
+
+#### Voordelen
+
+* Open source.
+* Sterke focus op privacy.
+* Veel aanpassingsmogelijkheden.
+* Regelmatige updates.
+
+#### Nadelen
+
+* Sommige websites werken beter in Chrome.
+* Iets minder extensies dan Chrome.
+
+#### Aanbevolen voor
+
+Gebruikers die privacy belangrijk vinden.
+
+---
+
+### Microsoft Edge
+
+#### Voordelen
+
+* Standaard aanwezig in Windows.
+* Snel en energiezuinig.
+* Goede beveiliging.
+* Compatibel met Chrome-extensies.
+
+#### Nadelen
+
+* Veel Microsoft-integraties die niet iedereen nodig heeft.
+
+#### Aanbevolen voor
+
+Windows-gebruikers die een snelle browser willen zonder extra software te installeren.
+
+---
+
+### Brave
+
+#### Voordelen
+
+* Sterke privacybescherming.
+* Blokkeert advertenties standaard.
+* Snel door ingebouwde advertentieblokkering.
+
+#### Nadelen
+
+* Minder bekend.
+* Sommige websites werken minder goed met advertentieblokkering.
+
+#### Aanbevolen voor
+
+Gebruikers die maximale privacy willen.
+
+---
+
+## Mijn Aanbeveling voor Browsers
+
+| Gebruik            | Aanbevolen Browser |
+| ------------------ | ------------------ |
+| Algemeen gebruik   | Google Chrome      |
+| Privacy            | Mozilla Firefox    |
+| Windows-gebruikers | Microsoft Edge     |
+| Maximale privacy   | Brave              |
+
+---
+
+# Besturingssystemen
+
+Een besturingssysteem (Operating System of OS) beheert de hardware en software van een computer.
+
+## Windows 11
+
+#### Voordelen
+
+* Gebruiksvriendelijk.
+* Ondersteunt veel software en games.
+* Grote hardwarecompatibiliteit.
+
+#### Nadelen
+
+* Betaalde licentie.
+* Verzamelt gebruikersgegevens.
+
+#### Geschikt voor
+
+* Thuisgebruik
+* School
+* Zakelijk gebruik
+* Gaming
+
+---
+
+## Linux (Ubuntu)
+
+#### Voordelen
+
+* Gratis.
+* Open source.
+* Veilig.
+* Minder gevoelig voor virussen.
+
+#### Nadelen
+
+* Sommige programma's werken niet.
+* Kan voor beginners lastig zijn.
+
+#### Geschikt voor
+
+* Programmeurs
+* Systeembeheerders
+* Privacybewuste gebruikers
+
+---
+
+## macOS
+
+#### Voordelen
+
+* Stabiel.
+* Veilig.
+* Goede integratie met Apple-apparaten.
+
+#### Nadelen
+
+* Alleen beschikbaar op Apple-computers.
+* Duurdere hardware.
+
+#### Geschikt voor
+
+* Creatieve beroepen
+* Apple-gebruikers
+
+---
+
+## Mijn Aanbeveling voor Besturingssystemen
+
+| Gebruik          | Aanbevolen Systeem |
+| ---------------- | ------------------ |
+| Algemeen gebruik | Windows 11         |
+| Programmeren     | Ubuntu Linux       |
+| Creatief werk    | macOS              |
+
+---
+
+# 32-bit en 64-bit
+
+## Wat is het verschil?
+
+### 32-bit
+
+#### Voordelen
+
+* Werkt op oudere computers.
+
+#### Nadelen
+
+* Kan maximaal ongeveer 4 GB RAM gebruiken.
+* Minder prestaties.
+
+---
+
+### 64-bit
+
+#### Voordelen
+
+* Ondersteunt veel meer geheugen.
+* Snellere prestaties.
+* Betere beveiliging.
+* Ondersteunt moderne software.
+
+#### Nadelen
+
+* Werkt niet op zeer oude hardware.
+
+---
+
+## Mijn Aanbeveling
+
+Tegenwoordig is **64-bit altijd de beste keuze**. Vrijwel alle moderne computers ondersteunen dit.
+
+| Type   | Aanbevolen                |
+| ------ | ------------------------- |
+| 32-bit | Alleen voor oude systemen |
+| 64-bit | Ja, voor vrijwel iedereen |
+
+---
+
+# Kantoorsoftware
+
+Kantoorsoftware wordt gebruikt voor tekstverwerking, spreadsheets en presentaties.
+
+## Microsoft Office
+
+### Onderdelen
+
+* Microsoft Word
+* Microsoft Excel
+* Microsoft PowerPoint
+* Microsoft Outlook
+* Microsoft Access (alleen Windows)
+
+### Voordelen
+
+* Zeer uitgebreid.
+* Wereldwijde standaard.
+* Goede samenwerking via OneDrive.
+* Professionele functies.
+
+### Nadelen
+
+* Betaald.
+* Vereist vaak een abonnement.
+
+### Geschikt voor
+
+* Bedrijven
+* Scholen
+* Professioneel gebruik
+
+---
+
+## LibreOffice
+
+### Onderdelen
+
+* Writer
+* Calc
+* Impress
+* Draw
+
+### Voordelen
+
+* Gratis.
+* Open source.
+* Werkt op Windows, Linux en macOS.
+* Geen abonnement nodig.
+
+### Nadelen
+
+* Minder moderne interface.
+* Soms kleine compatibiliteitsproblemen met Office-bestanden.
+
+### Geschikt voor
+
+* Studenten
+* Thuisgebruikers
+* Open-source liefhebbers
+
+---
+
+## Apache OpenOffice
+
+### Onderdelen
+
+* Writer
+* Calc
+* Impress
+* Draw
+
+### Voordelen
+
+* Gratis.
+* Eenvoudig te gebruiken.
+
+### Nadelen
+
+* Minder vaak bijgewerkt.
+* Minder functies dan LibreOffice.
+
+### Geschikt voor
+
+* Basisgebruik
+
+---
+
+# Vergelijking Kantoorsoftware
+
+| Eigenschap      | Microsoft Office | LibreOffice | OpenOffice  |
+| --------------- | ---------------- | ----------- | ----------- |
+| Prijs           | Betaald          | Gratis      | Gratis      |
+| Open Source     | Nee              | Ja          | Ja          |
+| Updates         | Zeer regelmatig  | Regelmatig  | Minder vaak |
+| Compatibiliteit | Uitstekend       | Goed        | Redelijk    |
+| Gebruiksgemak   | Uitstekend       | Goed        | Goed        |
+
+---
+
+# Mijn Persoonlijke Aanbeveling
+
+## Browser
+
+**Mozilla Firefox** vanwege de goede balans tussen snelheid, veiligheid en privacy.
+
+## Besturingssysteem
+
+**Windows 11 64-bit** voor de meeste gebruikers.
+
+## Kantoorsoftware
+
+### Professioneel gebruik
+
+**Microsoft Office**
+
+### Gratis alternatief
+
+**LibreOffice**
+
+---
+
+# Conclusie
+
+Voor de meeste gebruikers is de volgende combinatie een uitstekende keuze:
+
+* **Besturingssysteem:** Windows 11 64-bit
+* **Browser:** Mozilla Firefox of Microsoft Edge
+* **Kantoorsoftware:** Microsoft Office of LibreOffice
+
+Deze combinatie biedt een goede balans tussen prestaties, veiligheid, compatibiliteit en gebruiksgemak.
