@@ -1,0 +1,69 @@
+# Scripting
+
+Een **scripttaal** is een programmeertaal die geschikt is voor het schrijven van scripts: kleine programma's die veelvoorkomende taken automatiseren, zoals systeembeheer, of een eenmalige maar tijdrovende taak uitvoeren.
+
+Veel applicaties bevatten een eigen scripttaal. Ook besturingssystemen worden vaak geleverd met één of meerdere scripttalen, terwijl er daarnaast nog veel andere talen geïnstalleerd kunnen worden.
+
+## Voorbeelden van scripttalen
+
+* Batch Script
+* PowerShell
+* Bash
+* Shell Script
+* Python
+* Perl
+* AppleScript
+
+---
+
+# Eerste Script
+
+Ons eerste script wordt een **Batch Script** onder Windows.
+
+Iedereen kan een batchscript maken zonder extra software te installeren. Hiervoor gebruiken we het programma **Kladblok (Notepad)**.
+
+Een batchscript sla je op met de extensie **`.bat`**.
+
+## Stap 1: Maak het script
+
+Sla onderstaande code op als **`script-1.bat`**.
+
+```bat
+@ECHO OFF
+
+ECHO Dit is mijn eerste, zelfgeschreven script
+
+PAUSE
+```
+
+## Uitleg van de code
+
+| Commando    | Betekenis                                     |
+| ----------- | --------------------------------------------- |
+| `@ECHO OFF` | Verbergt de opdrachten die worden uitgevoerd. |
+| `ECHO`      | Toont tekst op het scherm.                    |
+| `PAUSE`     | Wacht totdat de gebruiker een toets indrukt.  |
+
+---
+
+## Stap 2: Script uitvoeren
+
+1. Open de **Opdrachtprompt (CMD)**.
+2. Navigeer naar de map waarin `script-1.bat` is opgeslagen.
+3. Voer het script uit met:
+
+```cmd
+script-1.bat
+```
+
+### Verwachte uitvoer
+
+```text
+Dit is mijn eerste, zelfgeschreven script
+
+Druk op een toets om door te gaan . . .
+```
+
+Voer onderstaand script uit in de cmd prompt van Windows: 
+
+ 
