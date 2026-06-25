@@ -1,0 +1,79 @@
+Welke soorten back-up zijn er ? 
+
+ 
+
+Volledige back-up 
+
+Incrementele back-up 
+
+Progressieve back-up 
+
+Image back-up 
+
+ 
+
+Volledige back-up 
+
+ 
+
+Bij de volledige back-up wordt een kopie gemaakt van alle bestanden ondanks dat deze veranderd zijn of niet. 
+
+ 
+
+Incrementele back-up 
+
+ 
+
+Bij incrementele back-ups wordt er een keer per bijvoorbeeld 7 dagen een volledige back-up gemaakt en de daarop volgende zes dagen een extra kopie van de bestanden welke daadwerkelijk gewijzigd zijn. 
+
+ 
+
+Progressieve back-up 
+
+ 
+
+Progressieve back-up deze wordt ook wel incremental forever genoemd daarbij wordt er een volledige back-up gemaakt en daarna alleen nog maar back-ups van bestanden die daadwerkelijk veranderd zijn. 
+
+ 
+
+Image back-up 
+
+ 
+
+Bij een image back-up wordt er als het ware een foto genomen van je harde schijf en deze wordt dan als back-up gebruikt, je kan dus terug naar het moment dat de opname is genomen. Ook is het mogelijk om de image als bijvoorbeeld disk te koppelen aan een computer en bestanden terug te zetten i.p.v. de genomen image. 
+
+ 
+
+Bewaren back-ups 
+
+ 
+
+Back-up van bestanden of databases bewaar je bij voorkeur offsite dat wil zeggen niet op de locatie waar de systemen zelf staan. Zo ben je ook beschermd bij rampen zoals brand, blikseminslag, neerstorten van een vliegtuig, diefstal etc. 
+
+ 
+
+Een back-up werkt alleen als die ook regelmatig getest wordt. Hierbij moet je  dus daadwerkelijk bestanden terugzetten en kijken of je alle bestanden beschikbaar hebt om je dienst weer te kunnen aanbieden. Dit noemen we in vak termen een restoretest. 
+
+ 
+
+Back-up media 
+
+ 
+
+Er zijn verschillende soorten back-up media die je kan gebruiken een en ander natuurlijk afhankelijk van de grote van het aantal te back-up bestanden. 
+
+ 
+
+Tapes 
+
+DVD schijven (minder betrouwbaar voor back-ups) 
+
+Harde schijven 
+
+Online backup (Onedrive, Google Drive, S3 van Amazon) 
+
+ 
+
+Doordat de hoeveelheid data van een back-up veelal groter is dan er op een tape of device kan kunnen grotere back-ups op meerdere tapes of devices worden opgeslagen. Ook kunnen tapes/of devices op geautomatiseerd (op afstand) worden geplaatst in devices.  
+
+ 
