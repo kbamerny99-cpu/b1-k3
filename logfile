@@ -1,0 +1,15 @@
+Besturingssystemen en applicaties leggen alle taken die ze uitvoeren vast in een logfile; een digitaal logboek. 
+Afhankelijk van de instellingen kunnen dit werkelijk alle taken zijn, de algemene taken, foutmeldingen of beveiligingsproblemen. 
+
+ 
+
+Onder Linux kan de systeemlogfile worden gevonden in /var/log/messages. 
+
+ 
+
+Onder Windows kan de systeemlogfile worden geopend door via start op Event viewer te zoeken. 
+
+ 
+
+In de volgende video wordt uitgelegd wat je allemaal kan zien in een Windows 10 systeemlogfile met behulp van de Event viewer. 
+Deze is ook bruikbaar voor Windows 7 systemen
