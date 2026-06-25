@@ -1,0 +1,18 @@
+NextCloud is een cloudomgeving die je zelf kan installeren op een Linux openSUSE-omgeving.
+De cloud is vergelijkbaar met DropBox, OneDrive, Google Drive etc 
+maar dan in eigen beheer. 
+Hierdoor blijf je ook de baas over je eigen data in plaats dat Microsoft, Google met je data aan de haal gaan. 
+
+ 
+
+Voor de installatie is een Linux Apache, MySQL en PHP (LAMP) setup beschikbaar. 
+Je begint met het installeren van openSUSE Leap waarna je met behulp van de HOWTO de overige modules gaat installeren. Tip: Lees goed ! 
+
+ 
+
+VIM-editor 
+
+ 
+
+Tijdens de installatie moet je wachten totdat het proces is voltooid. Bij de configuratie moet je gebruik maken van een editor. 
+Binnen Linux is dat bijvoorbeeld de VIM-editor. In het onderstaande filmpje wordt hier uitleg over gegeven. 
