@@ -1,0 +1,57 @@
+Stream uitzenden 
+
+ 
+
+Verbind de MS-Windows machine met het lokale netwerk. 
+
+Installeer de VLC-applicatie op een MS-Windows machine. 
+
+Noteer het IP nummer van de eigen machine. 
+
+Start de VLC-applicatie. 
+
+Selecteer Media. 
+
+Selecteer Streamen. 
+
+Selecteer de tab Bestand. 
+
+Selecteer Toevoegen. 
+
+Selecteer een video-bestand (Bijvoorbeeld in het MP4-formaat). 
+
+Selecteer Streamen. 
+
+Selecteer Volgende. 
+
+Selecteer het HTTP-protocol. 
+
+Selecteer Toevoegen. 
+
+Selecteer Volgende. 
+
+Schakel Transcoding in. 
+
+Getest is het Video - MPEG-2 + MPGA (TS) format dus selecteer die. 
+
+Selecteer Volgende. 
+
+Selecteer Stream. 
+
+ 
+
+Stream ontvangen 
+
+ 
+
+Open op een ander device de ontvangende VLC-applicatie. 
+
+Selecteer Open media. 
+
+Selecteer Network stream. 
+
+Voer het netwerkpad in voorafgaand aan het protocol en afgesloten met het poortnummer bijvoorbeeld: http://0.0.0.0:8080 
+
+Selecteer Afspelen. 
+
+ 
