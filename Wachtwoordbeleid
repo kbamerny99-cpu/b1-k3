@@ -1,0 +1,141 @@
+# Wachtwoordbeleid en Passende Maatregelen
+
+## Wachtwoordbeleid
+
+Een goed wachtwoordbeleid is tegenwoordig belangrijker dan ooit. De gevaren kunnen van alle kanten komen, zoals phishing, datalekken en social engineering. Daarnaast gebruiken veel mensen hetzelfde wachtwoord voor meerdere websites of systemen. Wanneer één account wordt gehackt, lopen alle andere accounts met hetzelfde wachtwoord ook gevaar.
+
+Daarom is het belangrijk om sterke en unieke wachtwoorden te gebruiken voor iedere dienst of applicatie.
+
+### Dubbele authenticatie (2FA)
+
+Heb je al gedacht aan dubbele authenticatie met behulp van je telefoon? Dit wordt ook wel **Two-Factor Authentication (2FA)** genoemd.
+
+Bij 2FA log je niet alleen in met een wachtwoord, maar gebruik je daarnaast een tweede verificatiemiddel, zoals:
+
+* Een code via een authenticator-app
+* Een sms-code
+* Een pushmelding op je telefoon
+* Een beveiligingssleutel
+
+Zelfs wanneer een wachtwoord wordt gestolen, biedt 2FA een extra beveiligingslaag waardoor onbevoegde toegang veel moeilijker wordt.
+
+---
+
+# Passende Maatregelen
+
+Artikel 32 van de **Algemene Verordening Gegevensbescherming (AVG)** verplicht organisaties om passende technische en organisatorische maatregelen te treffen voor de bescherming van persoonsgegevens.
+
+De Europese wetgever laat grotendeels open hoe deze maatregelen eruit moeten zien. Er worden bijvoorbeeld geen specifieke eisen gesteld aan wachtwoorden. Wel zijn er diverse best practices die bijdragen aan een goede beveiliging van persoonsgegevens.
+
+## 1. Dwing regelmatig wijzigen van wachtwoorden af
+
+In de ideale situatie wijzigen gebruikers hun wachtwoorden iedere **30, 60 of 90 dagen**.
+
+Uit onderzoek blijkt dat bij veel organisaties wachtwoorden nooit worden gewijzigd. Hierdoor kunnen eerder uitgelekte wachtwoorden nog steeds worden gebruikt door cybercriminelen.
+
+### Waarom is dit belangrijk?
+
+* Vermindert de kans op misbruik van oude wachtwoorden.
+* Verkleint de impact van datalekken.
+* Beperkt de tijd die aanvallers hebben om wachtwoorden te kraken.
+
+### Aanbeveling
+
+Zorg ervoor dat wachtwoorden een beperkte geldigheidsduur hebben en regelmatig moeten worden vernieuwd.
+
+---
+
+## 2. Benadruk het belang van unieke wachtwoorden
+
+Veel gebruikers vinden het lastig om meerdere wachtwoorden te onthouden. Hierdoor worden oude of dezelfde wachtwoorden vaak opnieuw gebruikt.
+
+Dit brengt risico's met zich mee wanneer een wachtwoord uitlekt.
+
+### Goede praktijk
+
+* Gebruik voor elk account een uniek wachtwoord.
+* Sta hergebruik van oude wachtwoorden niet toe.
+* Gebruik een wachtwoordmanager.
+
+### Vermijd eenvoudige wachtwoorden zoals:
+
+```text
+1234567
+qwerty
+admin
+password
+welkom
+```
+
+---
+
+## 3. Houd wachtwoorden strikt persoonlijk
+
+Wachtwoorden zijn persoonlijk en mogen nooit worden gedeeld met collega's of andere personen.
+
+Toch komt het nog regelmatig voor dat wachtwoorden worden opgeschreven op briefjes of worden gedeeld via e-mail en chat.
+
+### Risico's
+
+* Meer mensen kennen het wachtwoord.
+* Moeilijk te achterhalen wie verantwoordelijk is voor bepaalde acties.
+* Grotere kans op misbruik.
+
+### Belangrijk
+
+Een IT-medewerker zal nooit je wachtwoord nodig hebben om een probleem op te lossen. Geef je wachtwoord daarom nooit door aan anderen.
+
+---
+
+## 4. Stap over op tweefactorauthenticatie (2FA)
+
+Een gebruikersnaam en wachtwoord alleen bieden tegenwoordig onvoldoende bescherming voor gevoelige gegevens.
+
+Met tweefactorauthenticatie gebruikt een gebruiker:
+
+1. Iets wat hij weet (een wachtwoord).
+2. Iets wat hij heeft (bijvoorbeeld een telefoon of beveiligingssleutel).
+
+### Voorbeelden
+
+* Authenticator-app
+* Sms-code
+* Pushmelding
+* Hardware security key
+
+### Voor zeer gevoelige gegevens
+
+Gebruik identificatiemiddelen met een hoog betrouwbaarheidsniveau, zoals:
+
+* eHerkenning
+* PKIoverheid-certificaten
+* Andere erkende authenticatiemiddelen
+
+---
+
+## 5. Besteed aandacht aan wachtwoordbeheer
+
+Veel organisaties hebben zogenaamde **ghost users**. Dit zijn accounts die niet meer actief worden gebruikt.
+
+Voorbeelden:
+
+* Accounts van oud-medewerkers
+* Tijdelijke accounts
+* Testaccounts met eenvoudige wachtwoorden
+
+Deze accounts kunnen een gemakkelijk doelwit vormen voor aanvallers.
+
+### Aanbevelingen
+
+* Verwijder ongebruikte accounts.
+* Controleer regelmatig actieve gebruikers.
+* Neem accountverwijdering op in de uitdienstprocedure.
+* Verwijder testaccounts zodra deze niet meer nodig zijn.
+
+---
+
+# Conclusie
+
+Een goed wachtwoordbeleid bestaat uit meer dan alleen sterke wachtwoorden. Regelmatig wijzigen, unieke wachtwoorden gebruiken, wachtwoorden geheim houden, tweefactorauthenticatie inschakelen en goed accountbeheer toepassen zijn belangrijke maatregelen om persoonsgegevens te beschermen.
+
+Door deze maatregelen toe te passen voldoen organisaties beter aan de AVG en wordt de kans op datalekken en cyberaanvallen aanzienlijk verkleind.
